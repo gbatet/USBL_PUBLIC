@@ -6,7 +6,7 @@ USBL4TAGS, USBL config and tests scripts
 
 **Visit the Wiki for more detailed info and step-by-step guides!**
 
-https://github.com/gbatet/USBL4TAGS/wiki
+https://github.com/gbatet/USBL_PUBLIC/wiki
 
 ---
 
