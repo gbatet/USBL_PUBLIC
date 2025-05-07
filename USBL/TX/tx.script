@@ -1,0 +1,4 @@
+stop
+config 100 1 3 0
+tx 846848 raw:/usr/local/bin/sdmsh/examples/17350vemco.bin
+
